@@ -19,6 +19,10 @@ class ViewController: UIViewController {
         super.didReceiveMemoryWarning()
         // Dispose of any resources that can be recreated.
     }
+    @IBAction func onButtonPress(sender: AnyObject) {
+        let newvc = self.storyboard?.instantiateViewControllerWithIdentifier("SecondController") as! SecondController
+        navigationController?.pushViewController(newvc, animated: true)
+    }
 
 
 }

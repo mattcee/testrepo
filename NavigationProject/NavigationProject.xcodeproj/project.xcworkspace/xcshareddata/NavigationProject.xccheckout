@@ -7,34 +7,34 @@
 	<key>IDESourceControlProjectIdentifier</key>
 	<string>8D06BDD0-31C4-4FC8-8A3B-3EFC1DB7B8E5</string>
 	<key>IDESourceControlProjectName</key>
-	<string>project</string>
+	<string>NavigationProject</string>
 	<key>IDESourceControlProjectOriginsDictionary</key>
 	<dict>
-		<key>C1E59BB522B2B3BB56EF315838E55FC23839A1E9</key>
-		<string>https://github.com/mattcee/Test-Project.git</string>
+		<key>CE64762ABE90DE0936065378CFE69CFED7BCA2BD</key>
+		<string>https://github.com/mattcee/testrepo.git</string>
 	</dict>
 	<key>IDESourceControlProjectPath</key>
-	<string>NavigationProject/NavigationProject.xcodeproj/project.xcworkspace</string>
+	<string>NavigationProject/NavigationProject.xcodeproj</string>
 	<key>IDESourceControlProjectRelativeInstallPathDictionary</key>
 	<dict>
-		<key>C1E59BB522B2B3BB56EF315838E55FC23839A1E9</key>
+		<key>CE64762ABE90DE0936065378CFE69CFED7BCA2BD</key>
 		<string>../../..</string>
 	</dict>
 	<key>IDESourceControlProjectURL</key>
-	<string>https://github.com/mattcee/Test-Project.git</string>
+	<string>https://github.com/mattcee/testrepo.git</string>
 	<key>IDESourceControlProjectVersion</key>
 	<integer>111</integer>
 	<key>IDESourceControlProjectWCCIdentifier</key>
-	<string>C1E59BB522B2B3BB56EF315838E55FC23839A1E9</string>
+	<string>CE64762ABE90DE0936065378CFE69CFED7BCA2BD</string>
 	<key>IDESourceControlProjectWCConfigurations</key>
 	<array>
 		<dict>
 			<key>IDESourceControlRepositoryExtensionIdentifierKey</key>
 			<string>public.vcs.git</string>
 			<key>IDESourceControlWCCIdentifierKey</key>
-			<string>C1E59BB522B2B3BB56EF315838E55FC23839A1E9</string>
+			<string>CE64762ABE90DE0936065378CFE69CFED7BCA2BD</string>
 			<key>IDESourceControlWCCName</key>
-			<string>Test%20Project</string>
+			<string>testrepo</string>
 		</dict>
 	</array>
 </dict>

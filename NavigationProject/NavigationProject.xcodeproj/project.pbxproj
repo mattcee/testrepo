@@ -13,6 +13,7 @@
 		F96E6E331B40FD4900D53657 /* Images.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = F96E6E321B40FD4900D53657 /* Images.xcassets */; };
 		F96E6E361B40FD4900D53657 /* LaunchScreen.xib in Resources */ = {isa = PBXBuildFile; fileRef = F96E6E341B40FD4900D53657 /* LaunchScreen.xib */; };
 		F96E6E421B40FD4900D53657 /* NavigationProjectTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = F96E6E411B40FD4900D53657 /* NavigationProjectTests.swift */; };
+		F9DF45411B410163009F1696 /* SecondController.swift in Sources */ = {isa = PBXBuildFile; fileRef = F9DF45401B410163009F1696 /* SecondController.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -36,6 +37,7 @@
 		F96E6E3B1B40FD4900D53657 /* NavigationProjectTests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = NavigationProjectTests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
 		F96E6E401B40FD4900D53657 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 		F96E6E411B40FD4900D53657 /* NavigationProjectTests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = NavigationProjectTests.swift; sourceTree = "<group>"; };
+		F9DF45401B410163009F1696 /* SecondController.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = SecondController.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -79,6 +81,7 @@
 			children = (
 				F96E6E2B1B40FD4900D53657 /* AppDelegate.swift */,
 				F96E6E2D1B40FD4900D53657 /* ViewController.swift */,
+				F9DF45401B410163009F1696 /* SecondController.swift */,
 				F96E6E2F1B40FD4900D53657 /* Main.storyboard */,
 				F96E6E321B40FD4900D53657 /* Images.xcassets */,
 				F96E6E341B40FD4900D53657 /* LaunchScreen.xib */,
@@ -212,6 +215,7 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				F9DF45411B410163009F1696 /* SecondController.swift in Sources */,
 				F96E6E2E1B40FD4900D53657 /* ViewController.swift in Sources */,
 				F96E6E2C1B40FD4900D53657 /* AppDelegate.swift in Sources */,
 			);
@@ -411,6 +415,7 @@
 				F96E6E471B40FD4900D53657 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 		F96E6E481B40FD4900D53657 /* Build configuration list for PBXNativeTarget "NavigationProjectTests" */ = {
 			isa = XCConfigurationList;
@@ -419,6 +424,7 @@
 				F96E6E4A1B40FD4900D53657 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 /* End XCConfigurationList section */
 	};
